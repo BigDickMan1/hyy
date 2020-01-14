@@ -1,0 +1,1 @@
+var fa=document.getElementsByClassName("fa"),us=document.getElementsByClassName("u1");console.log(fa);for(var hp=document.getElementsByClassName("hp")[0],lsb=document.getElementsByClassName("lsb")[0],i=0;i<fa.length;i++)fa[i].onclick=function(){console.log(i)},console.log(i);

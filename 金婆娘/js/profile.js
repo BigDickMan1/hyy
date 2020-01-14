@@ -1,0 +1,1 @@
+for(var ps=document.getElementsByClassName("nav-true"),li=document.getElementsByClassName("l1")[0],span=document.getElementsByClassName("s1")[0],i=0;i<ps.length;i++)ps[i].onclick=function(){li.innerHTML=this.innerHTML,span.innerHTML=this.innerHTML};
